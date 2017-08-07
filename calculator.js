@@ -1,3 +1,5 @@
+// Calculator class example//////////////
+/////////////////////////////////////
 class Calculator {
     constructor(){
 
@@ -21,3 +23,4 @@ class Calculator {
 }
 
 module.exports = Calculator;
+///////////////////////////////////////////////
